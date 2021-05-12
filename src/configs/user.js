@@ -1,5 +1,5 @@
 const user = {
-  name: "Xiaohan Zou",
+  name: "LG",
   avatar: "img/ui/avatar.jpg"
 };
 
