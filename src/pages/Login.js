@@ -27,11 +27,11 @@ class Login extends Component {
           {/* Avatar */}
           <img
             className="rounded-full w-24 h-24 my-0 mx-auto"
-            src={user.avatar}
+            src=https://avatars.githubusercontent.com/u/76845820?s=400&u=62fdda13f093a0a5aa31938a08b6b7db27203d39&v=4
             alt="img"
           />
           <div className="nightwind-prevent font-semibold text-xl mt-2 text-white">
-            {user.name}
+            LG
           </div>
 
           {/* Password Input */}
